@@ -1,1 +1,0 @@
-# GAME 10003 Game Development Foundations - 2D Game Template (v1.5)1

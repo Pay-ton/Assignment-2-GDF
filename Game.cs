@@ -99,11 +99,11 @@ namespace MohawkGame2D
                 MouseOverCircle = false;
             }
 
-            
+
 
             // Comment
 
-
+            bool Unused;
         }
 
     }
